@@ -10,7 +10,7 @@ redirect_from:
 Mantang Guo received B.Eng. and M.Eng. degrees from the School of Computer Science, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), China, in 2016 and 2019, respectively, supervised by [Prof. Qing Wang](https://teacher.nwpu.edu.cn/qwang.html). He is currently pursuing the Ph.D. degree with the Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/) supervised by [Prof. Junhui Hou](https://sites.google.com/site/junhuihoushomepage/biography). His research interests include **novel view synthesis**, **light field**, and **computational photography**.
 
 Selected Publications [<font size=4>[More]</font>](https://scholar.google.com/citations?user=0_LPgUYAAAAJ&hl=zh-CN&oi=ao)
-======
+------
 * **Content-aware Warping for View Synthesis** \
   **Mantang Guo**, Junhui Hou, Jing Jin, Hui Liu, Huanqiang Zeng, and Jiwen Lu. \
   IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), 2023. \
