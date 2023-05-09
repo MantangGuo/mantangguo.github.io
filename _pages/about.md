@@ -28,7 +28,7 @@ IEEE/CVF International Conference on Computer Vision (IEEE ICCV), 2021. \
 
 * **Deep Spatial-angular Regularization for Compressive Light Field Reconstruction over Coded Apertures** \
 **Mantang Guo**, Junhui Hou, Jing Jin, Jie Chen, and Lap-Pui Chau. \
-European Conference on Computer Vision (ECCV), 2021. **Oral** \
+European Conference on Computer Vision (ECCV), 2020. **Oral** \
 [Code](https://github.com/MantangGuo/LFCA), [PDF](https://link.springer.com/chapter/10.1007/978-3-030-58536-5_17)
 
 
