@@ -13,12 +13,12 @@ Selected Publications [<font size=4>[More]</font>](https://scholar.google.com/ci
 ------
 * **Content-aware Warping for View Synthesis** \
   **Mantang Guo**, Junhui Hou, Jing Jin, Hui Liu, Huanqiang Zeng, and Jiwen Lu. \
-  IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), 2023. \
+  IEEE Trans. on Pattern Analysis and Machine Intelligence (IEEE T-PAMI), 2023. \
   [Code](https://github.com/MantangGuo/CW4VS), [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10038566)
   
 * **Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution** \
 **Mantang Guo**, Junhui Hou, Jing Jin, Jie Chen, and Lap-Pui Chau. \
-IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), 2021. \
+IEEE Trans. on Pattern Analysis and Machine Intelligence (IEEE T-PAMI), 2021. \
 [Code](https://github.com/MantangGuo/DRLF), [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9448470)
 
 * **Learning Dynamic Interpolation for Extremely Sparse Light Fields with Wide Baselines** \
