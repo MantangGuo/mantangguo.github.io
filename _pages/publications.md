@@ -4,6 +4,20 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Pre-print
+----------
+* **Light Field Reconstruction via Deep Adaptive Fusion of Hybrid Lenses** \
+  Jing Jin, **Mantang Guo**, Hui Liu, Junhui Hou, and Hongkai Xiong. \
+  IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), minor revision. \
+  [Paper](https://arxiv.org/abs/2102.07085)
+  
+* **Learning A Unified Point Cloud for View Synthesis** \
+  Meng You, **Mantang Guo**, Xianqiang Lyu, Hui Liu, and Junhui Hou. \
+  IEEE Trans. on Image Processing (IEEE T-IP),, 2023. \
+  [Paper](https://arxiv.org/abs/2209.05013)
+
+## Published
+----------
 
 * **Content-aware Warping for View Synthesis** \
   **Mantang Guo**, Junhui Hou, Jing Jin, Hui Liu, Huanqiang Zeng, and Jiwen Lu. \
@@ -34,7 +48,12 @@ European Conference on Computer Vision (ECCV), 2020. **Oral** \
 * **Revisiting Spatio-Angular Trade-off in Light Field Cameras and Extended Applications in Super-Resolution** \
 Hao Zhu, **Mantang Guo**, Hongdong Li, Qing Wang, and Antonio Robles-Kelly. \
 IEEE Trans. on Visualization and Computer Graphics (IEEE T-VCG), 2019. \
-[PDF](https://dl.acm.org/doi/10.1145/3474085.3475214)
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8924770)
+
+* **Dense Light Field Reconstruction from Sparse Sampling Using Residual Network** \
+**Mantang Guo**, Hao Zhu, Guoqing Zhou, and Qing Wang. \
+Asian Conference on Computer Vision (ACCV), 2018. \
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-20876-9_4)
 
  
 
