@@ -19,17 +19,17 @@ Selected Publications [<font size=4>[More]</font>](https://scholar.google.com/ci
 * **Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution** \
 **Mantang Guo**, Junhui Hou, Jing Jin, Jie Chen, and Lap-Pui Chau. \
 IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), 2021. \
-[Code](https://github.com/MantangGuo/DRLF), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9448470)
+[Code](https://github.com/MantangGuo/DRLF), [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9448470)
 
 * **Learning Dynamic Interpolation for Extremely Sparse Light Fields with Wide Baselines** \
 **Mantang Guo**, Jing Jin, Hui Liu, and Junhui Hou. \
 IEEE/CVF International Conference on Computer Vision (IEEE ICCV), 2021. \
-[Code](https://github.com/MantangGuo/DI4SLF), [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Learning_Dynamic_Interpolation_for_Extremely_Sparse_Light_Fields_With_Wide_ICCV_2021_paper.pdf)
+[Code](https://github.com/MantangGuo/DI4SLF), [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Learning_Dynamic_Interpolation_for_Extremely_Sparse_Light_Fields_With_Wide_ICCV_2021_paper.pdf)
 
 * **Deep Spatial-angular Regularization for Compressive Light Field Reconstruction over Coded Apertures** \
 **Mantang Guo**, Junhui Hou, Jing Jin, Jie Chen, and Lap-Pui Chau. \
 European Conference on Computer Vision (ECCV), 2020. **Oral** \
-[Code](https://github.com/MantangGuo/LFCA), [PDF](https://link.springer.com/chapter/10.1007/978-3-030-58536-5_17)
+[Code](https://github.com/MantangGuo/LFCA), [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58536-5_17)
 
 
 
