@@ -8,12 +8,11 @@ author_profile: true
 ----------
 * **Light Field Reconstruction via Deep Adaptive Fusion of Hybrid Lenses** \
   Jing Jin, **Mantang Guo**, Hui Liu, Junhui Hou, and Hongkai Xiong. \
-  IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), minor revision. \
+  IEEE Trans. on Pattern Analysis and Machine Intelligence (IEEE T-PAMI), minor revision. \
   [Paper](https://arxiv.org/abs/2102.07085)
   
 * **Learning A Unified Point Cloud for View Synthesis** \
   Meng You, **Mantang Guo**, Xianqiang Lyu, Hui Liu, and Junhui Hou. \
-  IEEE Trans. on Image Processing (IEEE T-IP),, 2023. \
   [Paper](https://arxiv.org/abs/2209.05013)
 
 ## Published
@@ -21,12 +20,12 @@ author_profile: true
 
 * **Content-aware Warping for View Synthesis** \
   **Mantang Guo**, Junhui Hou, Jing Jin, Hui Liu, Huanqiang Zeng, and Jiwen Lu. \
-  IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), 2023. \
+  IEEE Trans. on Pattern Analysis and Machine Intelligence (IEEE T-PAMI), 2023. \
   [Code](https://github.com/MantangGuo/CW4VS), [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10038566)
   
 * **Deep Spatial-angular Regularization for Light Field Imaging, Denoising, and Super-resolution** \
 **Mantang Guo**, Junhui Hou, Jing Jin, Jie Chen, and Lap-Pui Chau. \
-IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), 2021. \
+IEEE Trans. on Pattern Analysis and Machine Intelligence (IEEE T-PAMI), 2021. \
 [Code](https://github.com/MantangGuo/DRLF), [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9448470)
 
 * **Learning Dynamic Interpolation for Extremely Sparse Light Fields with Wide Baselines** \
