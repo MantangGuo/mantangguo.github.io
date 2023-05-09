@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mantang GUO's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mantang GUO"
 description              : &description "personal description"
