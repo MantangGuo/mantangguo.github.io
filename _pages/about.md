@@ -11,6 +11,11 @@ I received B.Eng. and M.Eng. degrees from the School of Computer Science, [North
 
 Selected Publications [<font size=4>[More]</font>](https://scholar.google.com/citations?user=0_LPgUYAAAAJ&hl=zh-CN&oi=ao)
 ------
+* **Light Field Reconstruction via Deep Adaptive Fusion of Hybrid Lenses** \
+  Jing Jin, **Mantang Guo**, Hui Liu, Junhui Hou, and Hongkai Xiong. \
+  IEEE Trans. on Pattern Analysis and Machine Intelligence (IEEE T-PAMI), 2023. \
+  [Code](https://github.com/jingjin25/LFhybridSR-Fusion),[Paper](https://ieeexplore.ieee.org/abstract/document/10158383)
+  
 * **Content-aware Warping for View Synthesis** \
   **Mantang Guo**, Junhui Hou, Jing Jin, Hui Liu, Huanqiang Zeng, and Jiwen Lu. \
   IEEE Trans. on Pattern Analysis and Machine Intelligence (IEEE T-PAMI), 2023. \
