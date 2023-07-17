@@ -5,18 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 ## Pre-print
-----------
-* **Light Field Reconstruction via Deep Adaptive Fusion of Hybrid Lenses** \
-  Jing Jin, **Mantang Guo**, Hui Liu, Junhui Hou, and Hongkai Xiong. \
-  IEEE Trans. on Pattern Analysis and Machine Intelligence (IEEE T-PAMI), minor revision. \
-  [Paper](https://arxiv.org/abs/2102.07085)
-  
+----------  
 * **Learning A Unified Point Cloud for View Synthesis** \
   Meng You, **Mantang Guo**, Xianqiang Lyu, Hui Liu, and Junhui Hou. \
   [Paper](https://arxiv.org/abs/2209.05013)
 
 ## Published
 ----------
+* **Light Field Reconstruction via Deep Adaptive Fusion of Hybrid Lenses** \
+  Jing Jin, **Mantang Guo**, Hui Liu, Junhui Hou, and Hongkai Xiong. \
+  IEEE Trans. on Pattern Analysis and Machine Intelligence (IEEE T-PAMI), 2023. \
+  [Code](https://github.com/jingjin25/LFhybridSR-Fusion),[Paper](https://ieeexplore.ieee.org/abstract/document/10158383)
 
 * **Content-aware Warping for View Synthesis** \
   **Mantang Guo**, Junhui Hou, Jing Jin, Hui Liu, Huanqiang Zeng, and Jiwen Lu. \
@@ -38,16 +37,16 @@ Xianqiang Lyu, Zhiyu Zhu, **Mantang Guo**, Jing Jin, and Junhui Hou. \
 ACM International Conference on Multimedia (ACM MM), 2021. **Oral** \
 [Paper](https://dl.acm.org/doi/10.1145/3474085.3475214)
 
+* **Revisiting Spatio-Angular Trade-off in Light Field Cameras and Extended Applications in Super-Resolution** \
+Hao Zhu, **Mantang Guo**, Hongdong Li, Qing Wang, and Antonio Robles-Kelly. \
+IEEE Trans. on Visualization and Computer Graphics (IEEE T-VCG), 2021. \
+[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8924770)
+
 * **Deep Spatial-angular Regularization for Compressive Light Field Reconstruction over Coded Apertures** \
 **Mantang Guo**, Junhui Hou, Jing Jin, Jie Chen, and Lap-Pui Chau. \
 European Conference on Computer Vision (ECCV), 2020. **Oral** \
 [Code](https://github.com/MantangGuo/LFCA), [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58536-5_17)
 
-
-* **Revisiting Spatio-Angular Trade-off in Light Field Cameras and Extended Applications in Super-Resolution** \
-Hao Zhu, **Mantang Guo**, Hongdong Li, Qing Wang, and Antonio Robles-Kelly. \
-IEEE Trans. on Visualization and Computer Graphics (IEEE T-VCG), 2019. \
-[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8924770)
 
 * **Dense Light Field Reconstruction from Sparse Sampling Using Residual Network** \
 **Mantang Guo**, Hao Zhu, Guoqing Zhou, and Qing Wang. \
